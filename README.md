@@ -80,7 +80,7 @@ This project was developed by:
 
 Anchal – M.Tech in Cyber Security, NIT Patna
 
-Lolla Vidyadhar
+Lolla S D J Vidyadhar - M.Tech in Cyber Security, NIT Patna
 
 M. Dishanth
 
